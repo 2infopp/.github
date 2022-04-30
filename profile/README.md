@@ -1,1 +1,1 @@
-![2º Informática](../docs/2infopp.png "2º Informática")
+![2º Informática](2infopp.png "2º Informática")
