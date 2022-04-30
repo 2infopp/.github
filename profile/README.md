@@ -1,1 +1,1 @@
-<img src="./2infopp.png"></img>
+<img src="./profile/2infopp.png"></img>
