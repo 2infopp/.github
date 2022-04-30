@@ -1,1 +1,1 @@
-![2º Informática](2infopp.png "2º Informática")
+<img src="./2infopp.png"></img>
